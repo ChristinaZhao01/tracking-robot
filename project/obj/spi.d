@@ -1,0 +1,16 @@
+.\obj\spi.o: ..\user\spi.c
+.\obj\spi.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\spi.o: ..\lib\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\spi.o: d:\Keil\ARM\RV31\INC\stdint.h
+.\obj\spi.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\spi.o: ..\user\stm32f10x_conf.h
+.\obj\spi.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\obj\spi.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\spi.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\spi.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\spi.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\obj\spi.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\obj\spi.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\spi.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\spi.o: ..\user\spi.h
+.\obj\spi.o: d:\Keil\ARM\RV31\INC\stdio.h

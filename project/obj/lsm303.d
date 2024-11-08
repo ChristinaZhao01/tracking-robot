@@ -1,0 +1,17 @@
+.\obj\lsm303.o: ..\user\lsm303.c
+.\obj\lsm303.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\lsm303.o: ..\lib\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\lsm303.o: d:\Keil\ARM\RV31\INC\stdint.h
+.\obj\lsm303.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\lsm303.o: ..\user\stm32f10x_conf.h
+.\obj\lsm303.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\obj\lsm303.o: ..\lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\lsm303.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\lsm303.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\lsm303.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\obj\lsm303.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\obj\lsm303.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\lsm303.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\lsm303.o: ..\user\lsm303.h
+.\obj\lsm303.o: ..\user\iic.h
+.\obj\lsm303.o: d:\Keil\ARM\RV31\INC\stdio.h

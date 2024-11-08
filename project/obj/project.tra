@@ -1,0 +1,53 @@
+*** Creating Trace Output File '.\obj\project.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\iic.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\timer.o"'
+### List of Objects: adding '".\obj\usart.o"'
+### List of Objects: adding '".\obj\filter.o"'
+### List of Objects: adding '".\obj\calculate.o"'
+### List of Objects: adding '".\obj\mpu6050.o"'
+### List of Objects: adding '".\obj\stepmotor.o"'
+### List of Objects: adding '".\obj\hw_config.o"'
+### List of Objects: adding '".\obj\usb_desc.o"'
+### List of Objects: adding '".\obj\usb_endp.o"'
+### List of Objects: adding '".\obj\usb_istr.o"'
+### List of Objects: adding '".\obj\usb_prop.o"'
+### List of Objects: adding '".\obj\usb_pwr.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_i2c.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\obj\otgd_fs_cal.o"'
+### List of Objects: adding '".\obj\otgd_fs_dev.o"'
+### List of Objects: adding '".\obj\otgd_fs_int.o"'
+### List of Objects: adding '".\obj\otgd_fs_pcd.o"'
+### List of Objects: adding '".\obj\usb_core.o"'
+### List of Objects: adding '".\obj\usb_init.o"'
+### List of Objects: adding '".\obj\usb_int.o"'
+### List of Objects: adding '".\obj\usb_mem.o"'
+### List of Objects: adding '".\obj\usb_regs.o"'
+### List of Objects: adding '".\obj\usb_sil.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_md.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\iic.o" ".\obj\main.o" ".\obj\stm32f10x_it.o" ".\obj\timer.o" ".\obj\usart.o" ".\obj\filter.o" ".\obj\calculate.o" ".\obj\mpu6050.o" ".\obj\stepmotor.o" ".\obj\hw_config.o" ".\obj\usb_desc.o" ".\obj\usb_endp.o" ".\obj\usb_istr.o" ".\obj\usb_prop.o" ".\obj\usb_pwr.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_usart.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_i2c.o" ".\obj\misc.o" ".\obj\stm32f10x_spi.o" ".\obj\otgd_fs_cal.o" ".\obj\otgd_fs_dev.o" ".\obj\otgd_fs_int.o" ".\obj\otgd_fs_pcd.o" ".\obj\usb_core.o" ".\obj\usb_init.o" ".\obj\usb_int.o" ".\obj\usb_mem.o" ".\obj\usb_regs.o" ".\obj\usb_sil.o" ".\obj\core_cm3.o" ".\obj\system_stm32f10x.o" ".\obj\startup_stm32f10x_md.o" --strict --scatter ".\obj\project.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lis\project.map" -o ".\obj\project.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\project.axf'
+### ADS-LD Command File: '.\obj\project.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\project.lnp', Handle=0x00000330
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\project.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
